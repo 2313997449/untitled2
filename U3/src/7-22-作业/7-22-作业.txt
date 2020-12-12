@@ -1,0 +1,22 @@
+1:根据附件的excel（数据字典）,写出所有表的建表语句
+，包括主键和主外键关系。
+
+2：找出10种以上数据库的名称和特点。
+mysql:体积小、速度快、总体拥有成本低，开放源代码
+MariaDB:MariaDB基于事务的Maria存储引擎，替换了MySQL的MyISAM的存储引擎，它使用了Percona的XtraDB（InnoDB的变体）这个版本还包括了PrimeBase XT （PBXT）和Federated X存储引擎。
+Access:Access是入门级小型桌面数据库，性能安全性都很一般，可供个人管理或小型企业只用 
+SQL Server:不论是C/S（客户机/服务器）架构还是B/S（浏览器/服务器）架构。SQL Server都是一个很好的选择。SQL Server的缺点是只能在Windows系统下运行
+DB2:  
+PostgreSQL:
+informix
+Sybase
+
+非关系型
+memcached: Memcaced是一个开源的、高性能的、具有分布式内存对象的缓存系统
+Redis:  和Memcached类似，redis也是一个key-value型存储系统。但redis支持的存储value类型相对更多，包括string（字符串）、list（链表）、set（集合）和zset（有序集合）等
+MongoDB:
+Cassandra:  MongoDB是一个介于关系型数据库和非关系型数据库之间的产品，是非关系型数据库当中功能最丰富，最像关系数据库的。
+3:性别用 enum类型
+     
+4:写出insert语句，给每个表添加一条数据
+ 
