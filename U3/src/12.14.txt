@@ -1,0 +1,25 @@
+SELECT s.sname ,s.fromcity ,s.birthday FROM s_student s
+where s.fromcity='合肥' and YEAR(CURRENT_DATE)-year(birthday)>=20
+ORDER BY  s.birthday desc
+
+SELECT s.sname ,s.fromcity ,s.birthday FROM s_student s
+where YEAR(CURRENT_DATE)-year(birthday)>=20
+ORDER BY  s.birthday desc
+
+SELECT s.* FROM s_student s
+where EXTRACT(DAY FROM birthday)=01
+
+SELECT s.* FROM s_student s
+where PERIOD_DIFF(CURRENT_DATE,enterdate)>=6
+
+SELECT s.*FROM s_student s
+where EXTRACT(MONTH FROM enterdate)= EXTRACT(MONTH  FROM CURRENT_DATE)
+
+SELECT s.*FROM s_student s
+where YEAR(CURRENT_DATE)-year(birthday)>(SELECT AVG( YEAR(CURRENT_DATE)-year(birthday)) FROM s_student)
+
+SELECT s.* FROM s_student s
+where PERIOD_DIFF(CURRENT_DATE,enterdate)>=12
+
+select s.*FROM s_student s WHERE YEAR(CURRENT_DATE)-year(birthday)=
+(select min(YEAR(CURRENT_DATE)-year(birthday)) as min_sal  from s_student)
