@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2e5c3dd-ba41-480c-884d-9328745deae9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.metadata/FoodUtils/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.metadata/FoodUtils/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.metadata/FoodUtils/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.metadata/FoodUtils/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.metadata/FoodUtils/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.metadata/FoodUtils/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.metadata/FoodUtils/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.metadata/FoodUtils/ZiCe/src/javaJiChuZhiShi/YangHuiSanJIao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.metadata/FoodUtils/src/main/FoodFuilts/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.metadata/FoodUtils/src/main/FoodFuilts/Test步骤2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.metadata/FoodUtils/src/main/FoodFuilts/Test步骤3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.metadata/FoodUtils/src/main/FoodFuilts/Test步骤5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../360Safe/Utils/MenuMgr/MenuManager.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java71/xml/src/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../U1/src/XML/G/ReadXMLPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../U1/src/XML/G/ReadXMLPro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../U1/src/controlMessage/~$总结.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../U1/src/controlMessage/总结.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lMjycVe9qFLzDDdEmGZNZTXpVF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2e5c3dd-ba41-480c-884d-9328745deae9" name="Default Changelist" comment="" />
+      <created>1607414109318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607414109318</updated>
+      <workItem from="1607414110535" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

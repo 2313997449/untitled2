@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<users>
+    <admin>
+        <name>laoliu</name>
+        <pass>1234568</pass>
+    </admin>
+    <admin>
+        <name>liuling</name>
+        <pass>111111</pass>
+    </admin>
+    <admin>
+        <name>zhangzifan</name>
+        <pass>123456</pass>
+    </admin>
+    <control>
+        <name>zhangs</name>
+        <pass>123456</pass>
+    </control>
+</users>
