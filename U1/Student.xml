@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_131" class="java.beans.XMLDecoder">
+ <object class="XML.G.Student">
+  <void property="age">
+   <string>男</string>
+  </void>
+  <void property="name">
+   <string>小王</string>
+  </void>
+ </object>
+</java>

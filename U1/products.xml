@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_131" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="project.common.Product">
+    <void property="name">
+     <string>恰恰瓜子</string>
+    </void>
+    <void property="no">
+     <string>1000</string>
+    </void>
+    <void property="num">
+     <int>80</int>
+    </void>
+    <void property="price">
+     <float>4.5</float>
+    </void>
+    <void property="unit">
+     <string>袋</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="project.common.Product">
+    <void property="name">
+     <string>可口可乐</string>
+    </void>
+    <void property="no">
+     <string>1001</string>
+    </void>
+    <void property="num">
+     <int>93</int>
+    </void>
+    <void property="price">
+     <float>3.5</float>
+    </void>
+    <void property="unit">
+     <string>瓶</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="project.common.Product">
+    <void property="name">
+     <string>卫龙辣条</string>
+    </void>
+    <void property="no">
+     <string>1002</string>
+    </void>
+    <void property="num">
+     <int>55</int>
+    </void>
+    <void property="price">
+     <float>9.5</float>
+    </void>
+    <void property="unit">
+     <string>袋</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="project.common.Product">
+    <void property="name">
+     <string>相印纸巾</string>
+    </void>
+    <void property="no">
+     <string>1003</string>
+    </void>
+    <void property="num">
+     <int>59</int>
+    </void>
+    <void property="price">
+     <float>4.5</float>
+    </void>
+    <void property="unit">
+     <string>包</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="project.common.Product">
+    <void property="name">
+     <string>农夫山泉</string>
+    </void>
+    <void property="no">
+     <string>1004</string>
+    </void>
+    <void property="num">
+     <int>100</int>
+    </void>
+    <void property="price">
+     <float>2.0</float>
+    </void>
+    <void property="unit">
+     <string>瓶</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="project.common.Product">
+    <void property="name">
+     <string>百事可乐</string>
+    </void>
+    <void property="no">
+     <string>1005</string>
+    </void>
+    <void property="num">
+     <int>100</int>
+    </void>
+    <void property="price">
+     <float>3.0</float>
+    </void>
+    <void property="unit">
+     <string>瓶</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

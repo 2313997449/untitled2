@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_131" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="project.common.Member">
+    <void property="integral">
+     <double>500.0</double>
+    </void>
+    <void property="memberNo">
+     <string>100001</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="project.common.Member">
+    <void property="integral">
+     <double>215.0</double>
+    </void>
+    <void property="memberNo">
+     <string>100002</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="project.common.Member">
+    <void property="integral">
+     <double>1000.0</double>
+    </void>
+    <void property="memberNo">
+     <string>100003</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="project.common.Member">
+    <void property="integral">
+     <double>50.0</double>
+    </void>
+    <void property="memberNo">
+     <string>100004</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
