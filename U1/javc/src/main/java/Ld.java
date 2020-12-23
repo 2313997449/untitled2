@@ -14,7 +14,7 @@ public class Ld {
          //   sql = "select * from s_subject";
            // ResultSet rs = stmt.executeQuery(sql);
             System.out.println("2--------------------------  ");
-            String sql2 = "INSERT into 's_subject'  (id,subjectname,classhour,gradeid) values  ('27','曲率引擎','99','3');";
+            String sql2 = "INSERT into s_subject (id,subjectname,classhour,gradeid) values('93','反物质推进','99','3');";
 //            psql.setInt(1,67);
 //            psql.setString(2,"曲率引擎");
 //            psql.setInt(3,16);
