@@ -19,6 +19,15 @@ public class jredis {
             jedis.set("runoobkey", "www.runoob.com");
             // 获取存储的数据并输出
             System.out.println("redis 存储的字符串为: "+ jedis.get("runoobkey"));
+            Subject sj = new Subject();
+            sj.setSubjectname("javs");
+            sj.setClasshour(15);
+            sj.setGradeid(12);
+            sj.setId(21);
+
+
+
+
         }
 
     public static void lis( ) {
